@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Noh Hyeonmin
+# 👋 Hello, I'm Noh Hyeonmin.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hanshin%20Univ.%20AI%26SW&fontSize=70" />
