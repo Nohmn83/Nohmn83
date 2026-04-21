@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [본인 이름]
+# 👋 Hello, I'm Noh Hyeonmin
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hanshin%20Univ.%20AI%26SW&fontSize=70" />
@@ -41,8 +41,8 @@
 ---
 
 ## 📫 Contact
-- **Email** : [본인 이메일 주소]
-- **Blog** : [블로그 주소 또는 링크]
+- **Email** : nogusals@hs.ac.kr
+- **Blog** : 
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=[본인ID]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
