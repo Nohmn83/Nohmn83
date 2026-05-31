@@ -64,15 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ## 📫 Contact
 - **Email** : nogusals@hs.ac.kr
